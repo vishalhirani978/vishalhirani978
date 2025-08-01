@@ -1,12 +1,12 @@
-# Hi 👋, I'm Vishal
+# 👋 **Hi, I'm Vishal!**
 🎓 **An AI student at beginner level who loves exploring how machines can learn and think!**
 
 ---
 
 ## 📫 **How to reach me**
 - 📧 Email: vishalhirani@gmail.com
-- 💼 LinkedIn: [vishal-hirani-9a4093331](https://www.linkedin.com/in/vishal-hirani-9a4093331)
-- 📸 Instagram: [vishalhirani.777](https://www.instagram.com/vishalhirani.777?igsh=ZGUzMzM3NWJiOQ==)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-hirani-9a4093331)
+- 📸 [Instagram](https://www.instagram.com/vishalhirani.777?igsh=ZGUzMzM3NWJiOQ==)
 
 ---
 
@@ -21,12 +21,23 @@
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=radical" alt="Vishal's GitHub stats"/>
+</p>
 
 ---
 
 ## 🔥 **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhirani978&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhirani978&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+
+---
+
+## 🧰 **Total code contributions**
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=radical" alt="Total contributions"/>
+</p>
 
 ---
 

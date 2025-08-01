@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi , I'm Vishal</h1>
 <h3 align="center">A passionate student of Artificial Intelligence student from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalhirani978&label=Profile%20views&color=0e75b6&style=flat" alt="vishalhirani978" /> </p>
 
 - hi i am working on medical website **Easy Med**
 
-- 🌱 I’m currently learning **AI agenting**
+-  I’m currently learning **AI agenting**
 
-- 👨‍💻 All of my projects are available at [i am working on it](i am working on it)
+-  All of my projects are available at [i am working on it](i am working on it)
 
-- 📫 How to reach me **vishalhirano2007@gmail.com**
+-  How to reach me **vishalhirano2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

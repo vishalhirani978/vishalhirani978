@@ -7,8 +7,6 @@
 
 -  I’m currently learning **AI agenting**
 
--  All of my projects are available at [i am working on it](i am working on it)
-
 -  How to reach me **vishalhirano2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

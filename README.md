@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalhirani978&label=Profile%20views&color=0e75b6&style=flat" alt="vishalhirani978" /> </p>
 
-- hi i am working on medical website **Easy Med**
+- AI student 
 
 -  I’m currently learning **AI agenting**
 

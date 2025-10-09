@@ -7,7 +7,7 @@
 
 -  I’m currently learning **AI agenting**
 
--  How to reach me **vishalhirano2007@gmail.com**
+-  How to reach me **vishalhirani2007@gmail.com**
 -  My portfolio website :: https://vishal-ai-cosmos.vercel.app
 
 <h3 align="left">Connect with me:</h3>

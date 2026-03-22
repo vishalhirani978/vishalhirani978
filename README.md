@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Vishal%20Hirani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Vishal%20Hirani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Vibe%20Coder%20%7C%20Builder&descAlignY=58&descSize=18)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishalhirani978&label=Profile%20views&color=6366f1&style=flat)](https://github.com/vishalhirani978)
 
@@ -45,9 +45,8 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 | Project | What it does | Stack | Live |
 |--------|-------------|-------|------|
 | 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |
-| 📊 **[CognitoFlow](https://github.com/vishalhirani978/COGNITO_FLOW)** | Upload past papers, extract topic trends with AI | TypeScript | Soon |
-| 🔜 **Coming soon** | *(Vibe coding series — project 1)* | TBD | — |
 | 🔜 **Coming soon** | *(Vibe coding series — project 2)* | TBD | — |
+| 🔜 **Coming soon** | *(Vibe coding series — project 3)* | TBD | — |
 
 ---
 
@@ -55,11 +54,11 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 
 > *Small projects. Real problems. Built fast.*
 
-| # | Project | Idea | Status |
-|---|---------|------|--------|
-| 01 | 🔜 Coming soon | AI tool for a real dev problem | 🏗️ Building |
-| 02 | 🔜 Coming soon | Productivity app with LLM core | 📋 Planned |
-| 03 | 🔜 Coming soon | TBD | 📋 Planned |
+| # | Project | What it does | Stack | Live |
+|---|---------|-------------|-------|------|
+| 01 | 📊 **[CognitoFlow](https://github.com/vishalhirani978/COGNITO_FLOW)** | Upload past papers, extract topic trends with AI | TypeScript | [Demo](https://cognito-flow.vercel.app/) |
+| 02 | 🔜 **Coming soon** | AI tool for a real dev problem | TBD | — |
+| 03 | 🔜 **Coming soon** | Productivity app with LLM core | TBD | — |
 
 ---
 

@@ -45,8 +45,8 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 | Project | What it does | Stack | Live |
 |--------|-------------|-------|------|
 | 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |
-| 🔜 **Coming soon** | *(Vibe coding series — project 2)* | TBD | — |
-| 🔜 **Coming soon** | *(Vibe coding series — project 3)* | TBD | — |
+| 🎙️ **[SUR Voice Assistant](https://github.com/vishalhirani978/SUR-Voice-Assistant)** | AI-powered voice assistant | Python | [GitHub](https://github.com/vishalhirani978/SUR-Voice-Assistant) |
+| 📥 **[YT Downloader](https://github.com/vishalhirani978/YT_DOWNLOADER)** | Download YouTube videos easily | Python | [GitHub](https://github.com/vishalhirani978/YT_DOWNLOADER) |
 
 ---
 

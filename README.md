@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Vishal%20Hirani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Builder%20%7C%20Shipping%20in%20Public&descAlignY=58&descSize=18)
+<!-- Animated header banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Vishal%20Hirani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishalhirani978&label=Profile%20views&color=6366f1&style=flat)](https://github.com/vishalhirani978)
 
@@ -8,69 +9,69 @@
 
 ---
 
-## Vishal Hirani
+## 👋 Hey, I'm [Vishal](https://vishal-ai-cosmos.vercel.app)
 
-AI developer from Nawabshah, Sindh, Pakistan. I build LLM-powered tools, agentic pipelines, and full-stack apps. I learn by shipping — every project is a real problem I actually want to solve.
-
----
-
-## About
-
-I'm an AI student focused on the engineering side of AI — agents, RAG systems, and production LLM workflows. Currently working on full-stack projects that combine modern web dev with AI backends. Open to internships, collabs, and hackathon teams.
-
-- Portfolio → [vishal-ai-cosmos.vercel.app](https://vishal-ai-cosmos.vercel.app)
-- Email → [vishalhirani2007@gmail.com](mailto:vishalhirani2007@gmail.com)
-- Location → Nawabshah, Pakistan
+AI student from **Nawabshah, Sindh, Pakistan** — interested in building things that are actually useful. Currently learning **AI agents**, **LLM pipelines**, and full-stack development.
 
 ---
 
-## Tech Stack
+## 🧠 About Me
 
-**Languages** — Python, TypeScript, JavaScript, C, Java, HTML, CSS
-
-**AI / ML** — LangChain, RAG pipelines, AI agents, PyTorch, TensorFlow
-
-**Web & Tools** — React, Next.js, Node.js, Vercel, Git, Figma
-
----
-
-## Projects
-
-Things I built to solve real problems.
-
-### SUR Voice Assistant
-AI-powered voice assistant built in Python. Handles natural language commands locally without a cloud backend.
-→ [github.com/vishalhirani978/SUR-Voice-Assistant](https://github.com/vishalhirani978/SUR-Voice-Assistant)
-
-### EASY MED
-Patient-to-doctor connection platform with a clean, accessible frontend.
-→ [live demo](https://vishalhirani978.github.io/EASY-MED-medical-website-)
-
-### YT Downloader
-Simple YouTube video downloader script. Utility tool built for practical daily use.
-→ [github.com/vishalhirani978/YT_DOWNLOADER](https://github.com/vishalhirani978/YT_DOWNLOADER)
+- 🎓 **Studying** Artificial Intelligence
+- 🤖 **Learning** AI Agenting, LangChain, RAG pipelines
+- 🏗️ **Currently** building small projects to practice and improve
+- 🌍 **Based in** Nawabshah, Pakistan
+- 💼 **Open to** internships, collabs, and hackathon teams
+- 📬 **Reach me** → [vishalhirani2007@gmail.com](mailto:vishalhirani2007@gmail.com)
+- 🌐 **Portfolio** → [vishal-ai-cosmos.vercel.app](https://vishal-ai-cosmos.vercel.app)
 
 ---
 
-## Vibe Coding Series
+## 🛠️ Tech Stack
 
-Small projects. Real dev problems. Built fast and shipped in public.
+### Languages
+![Skills](https://skillicons.dev/icons?i=python,ts,js,c,java,html,css)
 
-### CognitoFlow
-Upload past papers and extract topic trends using AI. Built with TypeScript, deployed on Vercel.
-→ [cognito-flow.vercel.app](https://cognito-flow.vercel.app/)
+### AI / ML
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
 
-### Coming Soon
-An AI tool for a real dev problem — and a productivity app with an LLM core. Both in progress.
+### Web & Tools
+![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,git,vercel)
 
 ---
 
-## GitHub Stats
+## 🚀 Projects
+
+| Project | What it does | Stack | Live |
+|--------|-------------|-------|------|
+| 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |
+| 🎙️ **[SUR Voice Assistant](https://github.com/vishalhirani978/SUR-Voice-Assistant)** | AI-powered voice assistant | Python | [GitHub](https://github.com/vishalhirani978/SUR-Voice-Assistant) |
+| 📥 **[YT Downloader](https://github.com/vishalhirani978/YT_DOWNLOADER)** | Download YouTube videos easily | Python | [GitHub](https://github.com/vishalhirani978/YT_DOWNLOADER) |
+
+---
+
+## ⚡ Developer Series
+
+> *Small projects. Real problems. Built fast.*
+
+| # | Project | What it does | Stack | Live |
+|---|---------|-------------|-------|------|
+| 01 | 📊 **[CognitoFlow](https://github.com/vishalhirani978/COGNITO_FLOW)** | Upload past papers, extract topic trends with AI | TypeScript | [Demo](https://cognito-flow.vercel.app/) |
+| 02 | 🔜 **Coming soon** | AI tool for a real dev problem | TBD | — |
+| 03 | 🔜 **Coming soon** | Productivity app with LLM core | TBD | — |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhirani978&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishalhirani978&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -78,9 +79,35 @@ An AI tool for a real dev problem — and a productivity app with an LLM core. B
 
 ---
 
-## Connect
+## 🎓 Education & Learning
 
-[LinkedIn](https://linkedin.com/in/vishal-hirani-9a4093331) · [Instagram](https://www.instagram.com/vishalhirani.777) · [Portfolio](https://vishal-ai-cosmos.vercel.app) · [Email](mailto:vishalhirani2007@gmail.com)
+- 🏛️ **AI Student** — currently enrolled
+- 📚 **Self-learning** LLMs, agents, and modern AI stacks
+- 🧪 Learning by building
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vishal-hirani-9a4093331">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32px" style="margin: 0 8px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/vishalhirani.777">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="32px" style="margin: 0 8px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://vishal-ai-cosmos.vercel.app">
+  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="32px" style="margin: 0 8px"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vishalhirani2007@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="32px" style="margin: 0 8px"/>
+</a>
+
+</div>
 
 ---
 

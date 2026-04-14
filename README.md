@@ -23,7 +23,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 - 🌍 **Based in** Nawabshah, Pakistan
 - 💼 **Open to** internships, collabs, and hackathon teams
 - 📬 **Reach me** → [vishalhirani2007@gmail.com](mailto:vishalhirani2007@gmail.com)
-- 🌐 **Portfolio** → [vishal-ai-cosmos.vercel.app](https://hirani-labs.vercel.app)
+- 🌐 **Portfolio** → [https://hirani-labs.vercel.app](https://hirani-labs.vercel.app)
 
 ---
 

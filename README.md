@@ -11,15 +11,16 @@
 
 ## 👋 Hey, I'm [Vishal](https://hirani-labs.vercel.app)
 
-AI student from **Nawabshah, Sindh, Pakistan** — interested in building things that are actually useful. Currently learning **AI agents**, **LLM pipelines**, and full-stack development.
+AI student from **Nawabshah, Sindh, Pakistan** — interested in building things that are actually useful. Currently building a bilingual **voice AI agent** for a live hackathon, and recently wrapped an **AI/ML internship at PTV**.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 **Studying** Artificial Intelligence
+- 🎓 **Studying** Artificial Intelligence @ QUEST, Nawabshah
+- 🖥️ **AI/ML Intern** — Pakistan Television Corporation (PTV), Karachi
+- 🎙️ **Currently** building a bilingual Urdu/English voice agent for the AssemblyAI Voice Agent Hackathon
 - 🤖 **Learning** AI Agenting, LangChain, RAG pipelines
-- 🏗️ **Currently** building small projects to practice and improve
 - 🌍 **Based in** Nawabshah, Pakistan
 - 💼 **Open to** internships, collabs, and hackathon teams
 - 📬 **Reach me** → [vishalhirani2007@gmail.com](mailto:vishalhirani2007@gmail.com)
@@ -33,10 +34,10 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 ![Skills](https://skillicons.dev/icons?i=python,ts,js,c,java,html,css)
 
 ### AI / ML
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi)
 
 ### Web & Tools
-![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,git,vercel)
+![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,git,vercel,docker)
 
 ---
 
@@ -44,6 +45,10 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 
 | Project | What it does | Stack | Live |
 |--------|-------------|-------|------|
+| 🛡️ **[SafeRoute PK](https://github.com/vishalhirani978/SAFEROUTE)** | Karachi crime-risk navigation app — hybrid Random Forest + RAG scoring on scraped news | Python, ML, RAG | [GitHub](https://github.com/vishalhirani978/SAFEROUTE) |
+| 📰 **PK News Relevance Dashboard** | Full-stack Pakistani news relevance scorer (Dawn + Ummat) using LaBSE + CLIP for multilingual, multimodal matching — presented at QUEST's AI Dept exhibition | FastAPI, ML, SQLite | — |
+| 🎬 **[PAI-Project](https://github.com/vishalhirani978/PAI-Project)** | AI video-editing SaaS backend — owning the Gemini API + Whisper speech-to-text integration on a university dev team | FastAPI, Gemini, Whisper | [GitHub](https://github.com/vishalhirani978/PAI-Project) |
+| 🖥️ **Pixel PM** | Windows desktop AI assistant with a pixel-art overlay that delivers GitHub notifications via thought bubbles | Electron | — |
 | 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |
 | 🎙️ **[SUR Voice Assistant](https://github.com/vishalhirani978/SUR-Voice-Assistant)** | AI-powered voice assistant | Python | [GitHub](https://github.com/vishalhirani978/SUR-Voice-Assistant) |
 | 📥 **[YT Downloader](https://github.com/vishalhirani978/YT_DOWNLOADER)** | Download YouTube videos easily | Python | [GitHub](https://github.com/vishalhirani978/YT_DOWNLOADER) |
@@ -57,7 +62,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 | # | Project | What it does | Stack | Live |
 |---|---------|-------------|-------|------|
 | 01 | 📊 **[CognitoFlow](https://github.com/vishalhirani978/COGNITO_FLOW)** | Upload past papers, extract topic trends with AI | TypeScript | [Demo](https://cognito-flow.vercel.app/) |
-| 02 | 🔜 **Coming soon** | AI tool for a real dev problem | TBD | — |
+| 02 | 🎙️ **Voice News Agent** *(in progress)* | Bilingual Urdu/English voice agent — AssemblyAI Voice Agent Hackathon | Python, AssemblyAI | — |
 | 03 | 🔜 **Coming soon** | Productivity app with LLM core | TBD | — |
 
 ---
@@ -81,7 +86,8 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 
 ## 🎓 Education & Learning
 
-- 🏛️ **AI Student** — currently enrolled
+- 🏛️ **AI Student** — Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah
+- 🖥️ **AI/ML Internship** — Pakistan Television Corporation (PTV), Karachi, IT Department
 - 📚 **Self-learning** LLMs, agents, and modern AI stacks
 - 🧪 Learning by building
 

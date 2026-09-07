@@ -46,7 +46,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 | Project | What it does | Stack | Live |
 |--------|-------------|-------|------|
 | 🛡️ **[SafeRoute PK](https://github.com/vishalhirani978/SAFEROUTE)** | Karachi crime-risk navigation app — hybrid Random Forest + RAG scoring on scraped news | Python, ML, RAG | [GitHub](https://github.com/vishalhirani978/SAFEROUTE) |
-| 📰 **PK News Relevance Dashboard** | Full-stack Pakistani news relevance scorer (Dawn + Ummat) using LaBSE + CLIP for multilingual, multimodal matching — presented at QUEST's AI Dept exhibition | FastAPI, ML, SQLite | — |
+| 📰 **PK News Relevance Dashboard** | Full-stack Pakistani news relevance scorer (Dawn + Ummat) using LaBSE + CLIP for multilingual, multimodal matching — presented at QUEST's AI Dept exhibition | FastAPI, ML, SQLite |  [GitHub](https://github.com/vishalhirani978/pakistani-news-relevance-dashboard) |
 | 🎬 **[PAI-Project](https://github.com/vishalhirani978/PAI-Project)** | AI video-editing SaaS backend — owning the Gemini API + Whisper speech-to-text integration on a university dev team | FastAPI, Gemini, Whisper | [GitHub](https://github.com/vishalhirani978/PAI-Project) |
 | 🖥️ **Pixel PM** | Windows desktop AI assistant with a pixel-art overlay that delivers GitHub notifications via thought bubbles | Electron | — |
 | 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |

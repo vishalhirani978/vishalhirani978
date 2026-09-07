@@ -1,108 +1,80 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=hey%2C%20i'm%20vishal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-</div>
-
-<div align="center">
-
 ```
-> whoami
-vishal hirani — AI student, Nawabshah, Pakistan
-currently shipping voice agents & full-stack ML
-
-> status
-[x] finished AI/ML internship @ PTV
-[x] exhibited an ML dashboard at QUEST
-[ ] building a bilingual voice agent for a live hackathon
-[ ] taking freelance AI/ML gigs
+╭──────────────────────────────────────────────────╮
+│                                                    │
+│   V I S H A L   H I R A N I                       │
+│   ai builder · nawabshah, pk                      │
+│                                                    │
+╰──────────────────────────────────────────────────╯
 ```
 
-<a href="https://hirani-labs.vercel.app"><img src="https://img.shields.io/badge/portfolio-hirani--labs.vercel.app-6366f1?style=flat-square" /></a>
-<a href="https://linkedin.com/in/vishal-hirani-9a4093331"><img src="https://img.shields.io/badge/linkedin-connect-06b6d4?style=flat-square" /></a>
-<a href="mailto:vishalhirani2007@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-0f172a?style=flat-square" /></a>
-[![Profile Views](https://komarev.com/ghpvc/?username=vishalhirani978&label=views&color=6366f1&style=flat-square)](https://github.com/vishalhirani978)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=listening...;parsing+intent...;training+on+3+months+of+shipped+bugs...;generating+response...;still+building.)](https://hirani-labs.vercel.app)
+
+▂▃▅▇█▇▅▃▂　▂▃▅▇█▇▅▃▂　▂▃▅▇█▇▅▃▂
 
 </div>
 
 <br>
 
-## right now
+### `101.1` SIGNAL
 
-I'm heads-down in the **AssemblyAI Voice Agent Hackathon**, building a bilingual Urdu/English voice news assistant — it ties back to my PTV internship and an ML dashboard I built earlier this year. Between that, I'm contributing the speech-to-text and Gemini modules on a university team's AI video-editing SaaS, and taking on small AI/ML + design gigs on the side as **Vishal.AI**.
-
-<br>
-
-## a few things I've built
-
-**SafeRoute PK** started as "can I score how risky a route through Karachi is" and turned into a hybrid Random Forest + RAG system — news scrapers feed a vector store, the model does the rest. It's the project that taught me more about *fixing* ML pipelines (a quadratic bug here, a CSV parser crash there) than building them from scratch ever did.
-
-Right after that came the **PK News Relevance Dashboard** — a full-stack scorer that reads Dawn and Ummat, and uses LaBSE + CLIP to figure out which articles from each are actually about the same story, across language and format. I built the PRD and the scraper, and stood next to it at QUEST's AI Dept exhibition explaining cosine similarity to a lot of people who did not ask for that level of detail.
-
-Before all that, there's the older stuff that still holds up: **EASY MED**, a patient-doctor connector; **SUR**, a Python desktop assistant that runs on voice; and a plain **YouTube downloader** that I still use more than anything else I've made.
+AI student at QUEST, currently tuned into voice agents and full-stack ML. Just wrapped an AI/ML internship at PTV, and I'm spending this month building live for a hackathon instead of just reading about agents.
 
 <br>
 
-## in progress
+### `102.3` LOG
 
-<details>
-<summary><b>Voice News Agent</b> — the hackathon build, Sept 2026</summary>
-<br>
-Bilingual Urdu/English voice agent using AssemblyAI's realtime STT. Solo build, going for a placement, not just a submission.
-</details>
-
-<details>
-<summary><b>PAI-Project</b> — team FastAPI backend for AI video editing</summary>
-<br>
-I own the Gemini + Whisper integration: transcription, titles, descriptions, subtitle generation from speech. Contributing to a shared upstream repo with a small team.
-</details>
-
-<details>
-<summary><b>Pixel PM</b> — a desktop assistant that lives on your screen</summary>
-<br>
-Electron app with a pixel-art character that sits as a transparent overlay and pings you about GitHub activity through thought bubbles. Packaging and installer are done; voice I/O and calendar sync are next.
-</details>
+```
+2026.09  ▸ building a bilingual Urdu/English voice agent — AssemblyAI Hackathon, live
+2026.08  ▸ shipped Gemini + Whisper modules on a team's AI video-editing backend
+2026.07  ▸ wrapped an AI/ML internship — Pakistan Television Corporation, Karachi
+2026.07  ▸ presented a news-relevance ML dashboard at QUEST's AI exhibition
+2026.—   ▸ SafeRoute PK — crime-risk routing, Random Forest + RAG over scraped news
+2026.—   ▸ Pixel PM — a pixel-art character that lives on your desktop and pings you
+earlier  ▸ EASY MED, SUR voice assistant, a YouTube downloader I still actually use
+```
 
 <br>
 
-## stack
+### `103.5` FREQUENCIES
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,ts,js,c,java,fastapi,pytorch,tensorflow,react,nextjs,nodejs,git,docker,figma,vercel)
+![Skills](https://skillicons.dev/icons?i=python,ts,js,c,java,fastapi,pytorch,tensorflow,react,nextjs,git,docker,figma&theme=dark)
 
 </div>
 
 <br>
 
-## the numbers
+### `104.7` READOUT
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhirani978&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img src="https://streak-stats.demolab.com?user=vishalhirani978&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vishalhirani978&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhirani978&layout=compact&langs_count=7&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117"/>
 
 </div>
 
 <br>
 
-## elsewhere
-
-AI student at QUEST, Nawabshah. Former AI/ML intern at PTV Karachi. I learn by building things that break, then fixing them in public.
+### `105.9` TRANSMIT
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vishal-hirani-9a4093331"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px" style="margin: 0 8px"/></a>
-<a href="https://www.instagram.com/vishalhirani.777"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="30px" style="margin: 0 8px"/></a>
-<a href="https://hirani-labs.vercel.app"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="30px" style="margin: 0 8px"/></a>
-<a href="mailto:vishalhirani2007@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30px" style="margin: 0 8px"/></a>
+<a href="https://hirani-labs.vercel.app"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/vishal-hirani-9a4093331"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalhirani2007@gmail.com"><img src="https://img.shields.io/badge/email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/vishalhirani.777"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=110&section=footer)
+▂▃▅▇█▇▅▃▂　▂▃▅▇█▇▅▃▂　▂▃▅▇█▇▅▃▂
+
+`end of transmission`
 
 </div>

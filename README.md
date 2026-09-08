@@ -5,6 +5,11 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishalhirani978&label=Profile%20views&color=6366f1&style=flat)](https://github.com/vishalhirani978)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalhirani978)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-hirani-9a4093331)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishalhirani.777)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hirani-labs.vercel.app)
+
 </div>
 
 ---
@@ -20,7 +25,8 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 - 🎓 **Studying** Artificial Intelligence @ QUEST, Nawabshah
 - 🖥️ **AI/ML Intern** — Pakistan Television Corporation (PTV), Karachi
 - 🎙️ **Currently** building a bilingual Urdu/English voice agent for the AssemblyAI Voice Agent Hackathon
-- 🤖 **Learning** AI Agenting, LangChain, RAG pipelines
+- 🤖 **Currently learning** Machine Learning and Agentic AI
+- 📖 **Also learning** LangChain, RAG pipelines
 - 🌍 **Based in** Nawabshah, Pakistan
 - 💼 **Open to** internships, collabs, and hackathon teams
 - 📬 **Reach me** → [vishalhirani2007@gmail.com](mailto:vishalhirani2007@gmail.com)
@@ -46,7 +52,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 | Project | What it does | Stack | Live |
 |--------|-------------|-------|------|
 | 🛡️ **[SafeRoute PK](https://github.com/vishalhirani978/SAFEROUTE)** | Karachi crime-risk navigation app — hybrid Random Forest + RAG scoring on scraped news | Python, ML, RAG | [GitHub](https://github.com/vishalhirani978/SAFEROUTE) |
-| 📰 **PK News Relevance Dashboard** | Full-stack Pakistani news relevance scorer (Dawn + Ummat) using LaBSE + CLIP for multilingual, multimodal matching — presented at QUEST's AI Dept exhibition | FastAPI, ML, SQLite |  [GitHub](https://github.com/vishalhirani978/pakistani-news-relevance-dashboard) |
+| 📰 **[PK News Relevance Dashboard](https://github.com/vishalhirani978/pakistani-news-relevance-dashboard)** | Full-stack Pakistani news relevance scorer (Dawn + Ummat) using LaBSE + CLIP for multilingual, multimodal matching — presented at QUEST's AI Dept exhibition | FastAPI, ML, SQLite | [GitHub](https://github.com/vishalhirani978/pakistani-news-relevance-dashboard) |
 | 🎬 **[PAI-Project](https://github.com/vishalhirani978/PAI-Project)** | AI video-editing SaaS backend — owning the Gemini API + Whisper speech-to-text integration on a university dev team | FastAPI, Gemini, Whisper | [GitHub](https://github.com/vishalhirani978/PAI-Project) |
 | 🖥️ **Pixel PM** | Windows desktop AI assistant with a pixel-art overlay that delivers GitHub notifications via thought bubbles | Electron | — |
 | 🩺 **[EASY MED](https://vishalhirani978.github.io/EASY-MED-medical-website-)** | Connects patients with doctors online | HTML, Java | [Demo](https://vishalhirani978.github.io/EASY-MED-medical-website-) |
@@ -88,7 +94,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 
 - 🏛️ **AI Student** — Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah
 - 🖥️ **AI/ML Internship** — Pakistan Television Corporation (PTV), Karachi, IT Department
-- 📚 **Self-learning** LLMs, agents, and modern AI stacks
+- 📚 **Self-learning** — currently focused on Machine Learning and Agentic AI, plus LLMs and modern AI stacks
 - 🧪 Learning by building
 
 ---
@@ -97,6 +103,10 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 
 <div align="center">
 
+<a href="https://github.com/vishalhirani978">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32px" style="margin: 0 8px"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/vishal-hirani-9a4093331">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32px" style="margin: 0 8px"/>
 </a>

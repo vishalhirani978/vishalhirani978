@@ -25,7 +25,7 @@ AI student from **Nawabshah, Sindh, Pakistan** — interested in building things
 - 🎓 **Studying** Artificial Intelligence @ QUEST, Nawabshah
 - 🖥️ **AI/ML Intern** — Pakistan Television Corporation (PTV), Karachi
 - 🎙️ **Currently** building a bilingual Urdu/English voice agent for the AssemblyAI Voice Agent Hackathon
-- 🤖 **Currently learning** Machine Learning and [Agentic AI](https://github.com/vishalhirani978/Agentic_AI_Workspace)
+- 🤖 **Currently learning** [Machine Learning](https://github.com/vishalhirani978/100-days-of-ML) and [Agentic AI](https://github.com/vishalhirani978/Agentic_AI_Workspace)
 - 📖 **Also learning** LangChain, RAG pipelines
 - 🌍 **Based in** Nawabshah, Pakistan
 - 💼 **Open to** internships, collabs, and hackathon teams

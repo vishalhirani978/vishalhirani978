@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Hey, I'm [Vishal](https://myportfoliovi.netlify.app)
+## 👋 Hey, I'm [Vishal]()
 
 AI student from **Nawabshah, Sindh, Pakistan** — interested in building things that are actually useful. Currently building a bilingual **voice AI agent** for a live hackathon, and recently wrapped an **AI/ML internship at PTV**.
 
